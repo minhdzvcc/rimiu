@@ -1,0 +1,31 @@
+a:hover {
+  color: red;
+}
+p:active {
+  color: green;
+  font-size: x-large;
+}
+a.concac:link {
+  background-color: blanchedalmond;
+}
+a.concac:visited {
+  background-color: blueviolet;
+}
+div.concac2:hover {
+  background-color: orange;
+  width: 70px;
+  height: 50px;
+}
+div.concac2 {
+  background-color: blue;
+  width: 70px;
+  height: 50px;
+}
+h2:target {
+  color: blue;
+}
+div:target {
+  background-color: aquamarine;
+  width: auto;
+  height: auto;
+}
